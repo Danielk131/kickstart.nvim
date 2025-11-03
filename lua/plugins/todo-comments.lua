@@ -1,4 +1,4 @@
--- Highlight todo, notes, etc in comments
+-- Highlight todo, notes, etc in comment
 return {
   'folke/todo-comments.nvim',
   event = 'VimEnter',
